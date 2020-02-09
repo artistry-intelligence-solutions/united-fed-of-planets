@@ -1,0 +1,35 @@
+<mat-drawer-container id="mainBg" class="container" autosize>
+  <!-- Nav -->
+  <mat-drawer #drawer class="sidenav" mode="side">
+    <img class="ufop" src="/assets/logos/ufop.png" alt="united federation of planets">
+    <p>Auto-resizing sidenav</p>
+    <p *ngIf="showFiller">Lorem, ipsum dolor sit amet consectetur.</p>
+    <button (click)="showFiller = !showFiller" mat-raised-button>
+      Toggle extra text
+    </button>
+    <div class="star-date">
+      <h2>Current Star Date</h2>
+      <hr>
+      <p>Based on the official {{ title }}' records and your current year <em>{{ currentYear }}</em> the current star date is<br><span class="numerals startrek-typeface">{{ currentStarDate }}</span></p>
+    </div>
+  </mat-drawer>
+  <!-- Page Content -->
+  <aside>
+    <div class="sidenav-content">
+      <button class="nav-toggle" type="button" mat-button (click)="drawer.toggle()">
+        <img src="/assets/logos/star-trek-logo.png" alt="power-on">
+        <span class="startrek-typeface">open menu</span>
+      </button>
+    </div>
+    <div class="galaxy-quadrant">
+      <button (click)="setBackground($event)" id="alphaBg" type="button" mat-button>Alpha Qaudrant</button>
+      <button (click)="setBackground($event)" id="betaBg" type="button" mat-button>Beta Qaudrant</button>
+      <button (click)="setBackground($event)" id="deltaBg" type="button" mat-button>Delta Qaudrant</button>
+      <button (click)="setBackground($event)" id="gammaBg" type="button" mat-button>Gamma Qaudrant</button>
+      <app-quadrant-map></app-quadrant-map>
+    </div>
+  </aside>
+  <main>
+    <app-crew-manifest></app-crew-manifest>
+  </main>
+</mat-drawer-container>
