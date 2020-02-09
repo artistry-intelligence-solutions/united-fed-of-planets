@@ -21,7 +21,7 @@ export class AppComponent {
     const alphaQuad = '/assets/quadrants/galaxy-1.jpg';
     const betaQuad = '/assets/quadrants/galaxy-4.jpg';
     const deltaQuad = '/assets/quadrants/galaxy-5.jpg';
-    const gammaQuad = '/assets/quadrants/galaxy-6.jpg';
+    const gammaQuad = '/assets/quadrants/galaxy-7.jpg';
     const mainBg = document.getElementById('mainBg');
     const target = (event.target as HTMLElement).id;
     if (target === 'alphaBg') {
