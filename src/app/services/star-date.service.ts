@@ -24,7 +24,8 @@ export class StarDateService {
     const m = today.getMonth() + 1;
     const n = 365;
     const y = today.getFullYear();
+    const stardate = c + (1000 * (y - b)) + ((1000 / n) * (m + d - 1));
 
-    return c + (1000 * (y - b)) + ((1000 / n) * (m + d - 1));
+    return Math.round(stardate * 100) / 100;
   }
 }
