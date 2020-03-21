@@ -1,5 +1,8 @@
 import { Component } from '@angular/core';
 import { StarDateService } from './services/star-date.service';
+import * as particlejs from '../assets/js/particle';
+
+// https://vincentgarreau.com/particles.js/#nasa
 
 @Component({
   selector: 'app-root',
@@ -15,7 +18,11 @@ export class AppComponent {
 
   constructor(
     private starDate: StarDateService
-  ) {}
+  ) {
+    // particlejs.load('particles-js', '../assets/meta-data/particlejs-config.json', () => {
+    //   console.log('callback - particles.js config loaded');
+    // });
+  }
 
   private setBackground(event: Event): void {
     const alphaQuad = '/assets/quadrants/galaxy-1.jpg';

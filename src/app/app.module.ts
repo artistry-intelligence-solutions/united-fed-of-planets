@@ -1,5 +1,7 @@
 
 import { BrowserModule } from '@angular/platform-browser';
+import { HttpClientModule } from '@angular/common/http';
+import { MatButtonModule } from '@angular/material/button';
 import { MatDialogModule } from '@angular/material/dialog';
 import { MatExpansionModule } from '@angular/material/expansion';
 import { MatFormFieldModule } from '@angular/material/form-field';
@@ -14,6 +16,7 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { QuadrantMapComponent, QaudrantDialogueComponent } from './quadrant-map/quadrant-map.component';
 import { CrewManifestComponent } from './crew-manifest/crew-manifest.component';
+import { FleetComponent } from './fleet/fleet.component';
 
 @NgModule({
   entryComponents: [
@@ -24,7 +27,8 @@ import { CrewManifestComponent } from './crew-manifest/crew-manifest.component';
     AppComponent,
     QuadrantMapComponent,
     QaudrantDialogueComponent,
-    CrewManifestComponent
+    CrewManifestComponent,
+    FleetComponent
   ],
   bootstrap: [
     AppComponent,
@@ -34,6 +38,8 @@ import { CrewManifestComponent } from './crew-manifest/crew-manifest.component';
     AppRoutingModule,
     BrowserAnimationsModule,
     BrowserModule,
+    HttpClientModule,
+    MatButtonModule,
     MatDialogModule,
     MatExpansionModule,
     MatFormFieldModule,

@@ -1,0 +1,41 @@
+table {
+    margin: 0 auto;
+    width: 600px;
+
+    th {
+        background-color: rgba(#fff, .3);
+        text-align: center;
+        width: 100%;
+    }
+}
+
+.headers-align {
+    .mat-expansion-panel-header-title,
+    .mat-expansion-panel-header-description {
+      flex-basis: 0;
+    }
+    
+    .mat-expansion-panel-header-description {
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    .mat-form-field + .mat-form-field {
+      margin-left: 8px;
+    }
+}
+
+.mat-expansion-panel-body {
+    padding: 0 !important;
+}
+
+.ship-icon {
+    transition: height .2s ease;
+    height: 45px;
+}
+
+.mat-expanded {
+    .ship-icon {
+        height: 65px;
+    }
+}

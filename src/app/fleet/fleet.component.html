@@ -1,0 +1,596 @@
+<div class="container">
+    <mat-accordion class="headers-align">
+      <!--  -->
+      <mat-expansion-panel [expanded]="step === 0" (opened)="setStep(0)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+            <h3>USS Voyager, NCC-74656</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+            <p>Launched: <strong>2371</strong></p>
+            <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <table>
+            <thead>
+                <tr>
+                    <th colspan="2">Information</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Launched</td>
+                    <td>2371</td>
+                </tr>
+                <tr>
+                    <td>Captain</td>
+                    <td>Captain Kathryn Janeway</td>
+                </tr>
+            </tbody>
+            <thead>
+                <tr>
+                    <th colspan="2">General characteristics</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Class</td>
+                    <td>Intrepid</td>
+                </tr>
+                <tr>
+                    <td>Registry</td>
+                    <td>NCC-74656</td>
+                </tr>
+                <tr>
+                    <td>Armaments</td>
+                    <td><span class="tooltip" matTooltip="A tricobalt device, also known as a tricobalt charge or tricobalt warhead, was a type of tricobalt explosive device utilized as a missile. (DS9: 'Blaze of Glory') At extremely high yields, they were capable of producing disruptions or even ruptures in subspace. (VOY: 'The Voyager Conspiracy').">Tricobalt devices</span><br><span class="tooltip" matTooltip="Photon torpedoes were warp-capable tactical matter/antimatter weapons commonly deployed aboard starships and starbases by various organizations. Photon torpedoes, often abbreviated as 'photons', were called Pu'DaH dak cha in Klingonese. (TNG: 'The Arsenal of Freedom', etc.; ENT: 'Sleeping Dogs')">Photon torpedoes</span><br><span class="tooltip" matTooltip="Phasers were the most common and standard directed energy weapon in the arsenal of Starfleet and several other powers. Most phasers were classified as particle weapons and fire nadion particle beams, (Star Trek: First Contact; TNG: 'The Mind's Eye'; VOY: 'Time and Again', 'Demon') but some, like the Ferengi hand phaser, were classified as plasma weapons and fired forced plasma beams. (TNG: 'Descent') Based on the intensity and field of the beam and a variety of adjustments, a wide variety of effects could be achieved.">Phasers</span><br><span class="tooltip" matTooltip="A bio-molecular warhead was a specially-modified photon torpedo utilized as a delivery-system for Borg nanoprobes with which to combat Species 8472. Designed in 2374 by the crew of the USS Voyager in collaboration with the Borg Collective, the warheads contained a series of nanoprobes modified by The Doctor to attack 8472 on a microscopic level, constituting a weapon which could not be replicated by the Borg, necessitating an alliance.">Bio-molecular warheads</span><br><span class="tooltip" matTooltip="The transphasic torpedo was an advanced type of torpedo weapon of unprecedented destructive potential used by Starfleet. The torpedoes could be launched from standard starship-mounted torpedo launchers. A single torpedo was capable of destroying a Borg cube. This weapon technology was acquired by the crew of USS Voyager in 2378 from Admiral Kathryn Janeway of an alternate timeline. (VOY: 'Endgame')">Transphasic torpedoes</span></td>
+                </tr>
+                <tr>
+                    <td>Defenses</td>
+                    <td>Shields<br><span class="tooltip" matTooltip="Ablative generators were an advanced armor technology used by Starfleet. Shield emitters generated a nearly-impenetrable layer of armor around the hull of a ship so equipped. This defensive technology was acquired by the crew of USS Voyager in 2378 from Admiral Kathryn Janeway of an alternate timeline. (VOY: 'Endgame')">Ablative generators</span></td>
+                </tr>
+                <tr>
+                    <td>Maximum speed</td>
+                    <td>Warp 9.975</td>
+                </tr>
+                <tr>
+                    <td>Propulsion</td>
+                    <td>Warp drive<br><span class="tooltip" matTooltip="n the fictional Star Trek universe, the impulse drive is the method of propulsion that starships and other spacecraft use when they are travelling below the speed of light.[1] Typically powered by deuterium fusion reactors, impulse engines let ships travel interplanetary distances readily. For example, Starfleet Academy cadets use impulse engines when flying from Earth to Saturn and back.[citation needed] Unlike the warp engines, impulse engines work on principles used in today's rocketry, throwing mass out the back as fast as possible to drive the ship forward.">Impulse engines</span><br><span class="tooltip" matTooltip="A reaction control system (RCS) is a spacecraft system that uses thrusters to provide attitude control, and sometimes translation. Use of diverted engine thrust to provide stable attitude control of a short-or-vertical takeoff and landing aircraft below conventional winged flight speeds, such as with the Harrier 'jump jet', may also be referred to as a reaction control system.">Reaction control thrusters</span></td>
+                </tr>
+                <tr>
+                    <td>Length</td>
+                    <td>343 meters</td>
+                </tr>
+                <tr>
+                    <td>Width</td>
+                    <td>116 meters</td>
+                </tr>
+                <tr>
+                    <td>Population volume</td>
+                    <td>varies, such as:<br>141 original complement,<br>150 during fifth year</td>
+                </tr>
+            </tbody>
+        </table>
+      </mat-expansion-panel>
+      <!-- NCC-1701-B -->
+      <mat-expansion-panel disabled [expanded]="step === 1" (opened)="setStep(1)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Enterprise, NCC-1701-B</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- NX-01 -->
+      <mat-expansion-panel disabled [expanded]="step === 2" (opened)="setStep(2)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Enterprise, NX-01</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- NCC-1701-D -->
+      <mat-expansion-panel disabled [expanded]="step === 3" (opened)="setStep(3)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Enterprise, NCC-1701-D</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- NCC-1701-A -->
+      <mat-expansion-panel disabled [expanded]="step === 4" (opened)="setStep(4)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Enterprise, NCC-1701-A</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- NCC-1701-E -->
+      <mat-expansion-panel disabled [expanded]="step === 5" (opened)="setStep(5)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Enterprise, NCC-1701-E</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- NCC-1701-C -->
+      <mat-expansion-panel disabled [expanded]="step === 6" (opened)="setStep(6)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Enterprise, NCC-1701-C</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!--  -->
+      <mat-expansion-panel disabled [expanded]="step === 7" (opened)="setStep(7)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Enterprise, NCC-74656</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- NCC-1701-D -->
+      <mat-expansion-panel disabled [expanded]="step === 8" (opened)="setStep(8)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Enterprise, NCC-1701-D</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- NCC-1701 -->
+      <mat-expansion-panel disabled [expanded]="step === 9" (opened)="setStep(9)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Enterprise, NCC-1701 (J.J. Abrams universe)</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- NCC-1701 -->
+      <mat-expansion-panel disabled [expanded]="step === 10" (opened)="setStep(10)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Enterprise, NCC-1701</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- NCC-2000 -->
+      <mat-expansion-panel disabled [expanded]="step === 11" (opened)="setStep(11)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Excelsior NCC-2000</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Reliant NCC-1864 -->
+      <mat-expansion-panel disabled [expanded]="step === 12" (opened)="setStep(12)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Reliant NCC-1864</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Equinox NCC-72381 -->
+      <mat-expansion-panel disabled [expanded]="step === 13" (opened)="setStep(13)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Equinox NCC-72381</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Stargazer NCC-2893 -->
+      <mat-expansion-panel disabled [expanded]="step === 14" (opened)="setStep(14)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Stargazer NCC-2893</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Honshu -->
+      <mat-expansion-panel disabled [expanded]="step === 15" (opened)="setStep(15)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Honshu</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Prometheus NX-59650 -->
+      <mat-expansion-panel disabled [expanded]="step === 16" (opened)="setStep(16)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Prometheus NX-59650</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Pasteur NCC-58925 -->
+      <mat-expansion-panel disabled [expanded]="step === 17" (opened)="setStep(17)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Pasteur NCC-58925</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Centaur NCC-42043 -->
+      <mat-expansion-panel disabled [expanded]="step === 18" (opened)="setStep(18)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Centaur NCC-42043</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Appalachia -->
+      <mat-expansion-panel disabled [expanded]="step === 19" (opened)="setStep(19)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Appalachia</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Relativity NCV-474439-G -->
+      <mat-expansion-panel disabled [expanded]="step === 20" (opened)="setStep(20)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Relativity NCV-474439-G</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Enterprise NCC-1701-J -->
+      <mat-expansion-panel disabled [expanded]="step === 21" (opened)="setStep(21)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Enterprise NCC-1701-J</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Saratoga NCC-31911 -->
+      <mat-expansion-panel disabled [expanded]="step === 22" (opened)="setStep(22)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Saratoga NCC-31911</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Kyushu -->
+      <mat-expansion-panel [expanded]="step === 23" (opened)="setStep(23)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Kyushu</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Rhode Island NCC-72701 -->
+      <mat-expansion-panel disabled [expanded]="step === 24" (opened)="setStep(24)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Rhode Island NCC-72701</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Ahwahnee -->
+      <mat-expansion-panel disabled [expanded]="step === 25" (opened)="setStep(25)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Ahwahnee</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Chekov -->
+      <mat-expansion-panel disabled [expanded]="step === 26" (opened)="setStep(26)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Chekov</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Phoenix NCC-65420 -->
+      <mat-expansion-panel disabled [expanded]="step === 27" (opened)="setStep(27)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Phoenix NCC-65420</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- fshen -->
+      <mat-expansion-panel disabled [expanded]="step === 28" (opened)="setStep(28)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Curry NCC-42254</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Firebrand -->
+      <mat-expansion-panel disabled [expanded]="step === 29" (opened)="setStep(29)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Firebrand</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Bozeman NCC-1941 -->
+      <mat-expansion-panel disabled [expanded]="step === 30" (opened)="setStep(30)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Bozeman NCC-1941</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Yeager NCC-65674 -->
+      <mat-expansion-panel disabled [expanded]="step === 31" (opened)="setStep(31)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Yeager NCC-65674</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Princeton -->
+      <mat-expansion-panel disabled [expanded]="step === 32" (opened)="setStep(32)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Princeton</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Lantree NCC-1837 -->
+      <mat-expansion-panel disabled [expanded]="step === 33" (opened)="setStep(33)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Lantree NCC-1837</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Antares NCC-9844 -->
+      <mat-expansion-panel disabled [expanded]="step === 34" (opened)="setStep(34)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Antares NCC-9844</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Melbourne -->
+      <mat-expansion-panel disabled [expanded]="step === 35" (opened)="setStep(35)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Melbourne</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Shenzhou -->
+      <mat-expansion-panel disabled [expanded]="step === 36" (opened)="setStep(36)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Shenzhou</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+      <!-- USS Thunderchild NCC-63549 -->
+      <mat-expansion-panel disabled [expanded]="step === 37" (opened)="setStep(37)" hideToggle>
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+              <h3>USS Thunderchild NCC-63549</h3>
+          </mat-panel-title>
+          <mat-panel-description>
+              <p>Launched: <strong>2371</strong></p>
+              <img class="ship-icon" src="/assets/ships/voyager.png" alt="">
+          </mat-panel-description>
+        </mat-expansion-panel-header>
+        <!-- content -->
+        <p>stuff</p>
+      </mat-expansion-panel>
+    </mat-accordion>
+  </div>
+  

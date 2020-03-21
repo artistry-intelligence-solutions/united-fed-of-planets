@@ -1,12 +1,21 @@
 .container {
-    background-image: url('/assets/quadrants/galaxy-1.jpg');
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    border: 1px solid rgba(0, 0, 0, 0.5);
-    // height: 100vh;
-    min-height: 100vh;
-    width: 100vw;
+  background-attachment: fixed;
+  background-image: url('/assets/quadrants/galaxy-1.jpg');
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  min-height: 100vh;
+  padding: 25px;
+
+  .sidenav {
+    left: 0;
+  }
+
+  .sidenav,
+  .sidenav-content {
+    height: 100vh;
+    position: absolute;
+  }
 }
 
 .galaxy-quadrant {
@@ -51,6 +60,39 @@
     color: white;
     display: block;
     font-size: 1.2rem;
+  }
+}
+
+$myBoxShadow: rgba(0, 0, 0, .4);
+
+.sidenav {
+  button {
+    transition: all .2s ease-in-out;
+    width: 100%;
+
+    &:hover {
+      box-shadow:
+        inset 0px 11px 8px -10px lighten($color: $myBoxShadow, $amount: 10%),
+        inset 0px -11px 8px -10px lighten($color: $myBoxShadow, $amount: 10%),
+        inset 11px 0 8px -10px lighten($color: $myBoxShadow, $amount: 10%),
+        inset -11px 0 8px -10px lighten($color: $myBoxShadow, $amount: 10%);
+    }
+  }
+
+  .active {
+    box-shadow:
+      inset 0px 11px 8px -10px $myBoxShadow,
+      inset 0px -11px 8px -10px $myBoxShadow,
+      inset 11px 0 8px -10px $myBoxShadow,
+      inset -11px 0 8px -10px $myBoxShadow;
+
+      &:hover {
+        box-shadow:
+          inset 0px 11px 8px -10px darken($color: $myBoxShadow, $amount: 10%),
+          inset 0px -11px 8px -10px darken($color: $myBoxShadow, $amount: 10%),
+          inset 11px 0 8px -10px darken($color: $myBoxShadow, $amount: 10%),
+          inset -11px 0 8px -10px darken($color: $myBoxShadow, $amount: 10%);
+      }
   }
 }
 
