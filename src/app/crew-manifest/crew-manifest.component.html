@@ -1,6 +1,18 @@
-<mat-grid-list cols="4" row-height="1:2">
+<mat-grid-list cols="4">
     <mat-grid-tile *ngFor="let crewMan of crewManifest">
-        <h3>{{ crewMan.title }}</h3>
-        <img src="{{ crewMan.imgUrl }}" alt="{{ crewMan.title }}">
+        <ng-template *ngIf="crewMan.imgUrl">
+            <img src="{{ crewMan.imgUrl }}" alt="{{ crewMan.title }}">
+        </ng-template>
+        <div class="card-body">
+            <h2>{{ crewMan.name }} {{ crewMan.lastName }}</h2>
+            <ul>
+                <li *ngIf="crewMan.gender">{{ crewMan.gender }}</li>
+                <li *ngIf="crewMan.species">{{ crewMan.species }}</li>
+                <li *ngIf="crewMan.affiliation">{{ crewMan.affiliation }}</li>
+                <li *ngIf="crewMan.occupation">{{ crewMan.occupation }}</li>
+                <li *ngIf="crewMan.serial">{{ crewMan.serial }}</li>
+                <li *ngIf="crewMan.status">{{ crewMan.status }}</li>
+            </ul>
+        </div>
     </mat-grid-tile>
 </mat-grid-list>

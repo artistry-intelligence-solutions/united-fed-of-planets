@@ -26,7 +26,7 @@ export class CrewManifestComponent implements OnInit, OnDestroy {
     });
 
     this.data.retriveDefinitions().subscribe((jsonData: Definitions[]) => {
-      this.crewManifest = jsonData['personnel'][0];
+      this.crewManifest = jsonData['personnel'];
     }, err => {
       console.error(err);
     }, () => {

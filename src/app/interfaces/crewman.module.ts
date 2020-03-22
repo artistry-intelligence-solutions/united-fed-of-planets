@@ -1,12 +1,11 @@
 export interface Crewman {
-    title: string;
-    affiliation: string;
+    name: string;
+    lastName: string;
     gender: string;
-    occupation: string;
-    rank: string;
     species: string;
-    serialNumber: string;
-    imgUrl: string;
+    affiliation: string;
+    occupation: string;
+    serial: string;
     status: string;
-    assigned: string;
+    imgUrl: string;
 }
