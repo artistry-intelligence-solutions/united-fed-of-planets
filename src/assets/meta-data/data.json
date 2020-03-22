@@ -1,264 +1,288 @@
 {
     "definitions": [
         {
-            "jargon": [{
-                "Tricobalt devices": "A tricobalt device, also known as a tricobalt charge or tricobalt warhead, was a type of tricobalt explosive device utilized as a missile. (DS9: 'Blaze of Glory') At extremely high yields, they were capable of producing disruptions or even ruptures in subspace. (VOY: 'The Voyager Conspiracy').",
-                "Photon torpedoes": "Photon torpedoes were warp-capable tactical matter/antimatter weapons commonly deployed aboard starships and starbases by various organizations. Photon torpedoes, often abbreviated as 'photons', were called Pu'DaH dak cha in Klingonese. (TNG: 'The Arsenal of Freedom', etc.; ENT: 'Sleeping Dogs')",
-                "Phasers": "Phasers were the most common and standard directed energy weapon in the arsenal of Starfleet and several other powers. Most phasers were classified as particle weapons and fire nadion particle beams, (Star Trek: First Contact; TNG: 'The Mind's Eye'; VOY: 'Time and Again', 'Demon') but some, like the Ferengi hand phaser, were classified as plasma weapons and fired forced plasma beams. (TNG: 'Descent') Based on the intensity and field of the beam and a variety of adjustments, a wide variety of effects could be achieved.",
-                "Bio-molecular warheads": "A bio-molecular warhead was a specially-modified photon torpedo utilized as a delivery-system for Borg nanoprobes with which to combat Species 8472. Designed in 2374 by the crew of the USS Voyager in collaboration with the Borg Collective, the warheads contained a series of nanoprobes modified by The Doctor to attack 8472 on a microscopic level, constituting a weapon which could not be replicated by the Borg, necessitating an alliance.",
-                "Transphasic torpedoes": "The transphasic torpedo was an advanced type of torpedo weapon of unprecedented destructive potential used by Starfleet. The torpedoes could be launched from standard starship-mounted torpedo launchers. A single torpedo was capable of destroying a Borg cube. This weapon technology was acquired by the crew of USS Voyager in 2378 from Admiral Kathryn Janeway of an alternate timeline. (VOY: 'Endgame')",
-                "Ablative generators": "Ablative generators were an advanced armor technology used by Starfleet. Shield emitters generated a nearly-impenetrable layer of armor around the hull of a ship so equipped. This defensive technology was acquired by the crew of USS Voyager in 2378 from Admiral Kathryn Janeway of an alternate timeline. (VOY: 'Endgame')",
-                "Warp drive": "In the fictional Star Trek universe, the impulse drive is the method of propulsion that starships and other spacecraft use when they are travelling below the speed of light.[1] Typically powered by deuterium fusion reactors, impulse engines let ships travel interplanetary distances readily. For example, Starfleet Academy cadets use impulse engines when flying from Earth to Saturn and back.[citation needed] Unlike the warp engines, impulse engines work on principles used in today's rocketry, throwing mass out the back as fast as possible to drive the ship forward.",
-                "Impulse engines": "A reaction control system (RCS) is a spacecraft system that uses thrusters to provide attitude control, and sometimes translation. Use of diverted engine thrust to provide stable attitude control of a short-or-vertical takeoff and landing aircraft below conventional winged flight speeds, such as with the Harrier 'jump jet', may also be referred to as a reaction control system."
-            }],
-            "ranks": [{
-                "crewman": [{
-                    "color": "#c7b249",
-                    "definition": "Crewman was an enlisted rank of often limited responsibility or entry level duties, used by service organizations in various cultures, including Starfleet. In Klingonese, this rank was comparable to the rank of bekk in the Klingon Defense Force.",
-                    "pin": "https://vignette.wikia.nocookie.net/memoryalpha/images/1/16/Mov_crew.png/revision/latest/scale-to-width-down/73?cb=20170417202337&path-prefix=en"
-                }],
-                "ensign": [{
-                    "color": "#c7b249",
-                    "definition": "Ensign was a commissioned rank, the equivalent of which was used by the service organizations of many civilizations, namely by Starfleet, the Orions, and the Bajoran Militia. The rank or term \"ensign\" itself, was unfamiliar to the Kraylor.",
-                    "pin": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/9d/PIC_Ens.png/revision/latest/scale-to-width-down/73?cb=20200202124700&path-prefix=en"
-                }],
-                "lieutenant": [{
-                    "color": "#c7b249",
-                    "definition": "Lieutenant (US: /luːˈtɛnənt/ loo-TEN-ənt, UK: /lɛfˈtɛnənt/ lef-TEN-ənt) was a junior officer military rank, the equivalent of which was used by the service organizations of many civilizations. The German word for \"lieutenant\" was \"Leutnant\". (TNG: \"Tapestry\") The British pronunciation was \"lef-tenant\".",
-                    "pin": "https://vignette.wikia.nocookie.net/memoryalpha/images/3/36/PIC_Lt.png/revision/latest/scale-to-width-down/73?cb=20200202115737&path-prefix=en"
-                }],
-                "chief-medical-officer": [{
-                    "color": "#72abff",
-                    "definition": "The chief medical officer (CMO), first medical officer, senior medical officer, or ship's surgeon was a senior staff-level position, typically held by a lieutenant commander or commander who was a doctor of medicine with surgical skills. A nurse could also hold this position if no qualified doctors were available.",
-                    "pin": ""
-                }],
-                "commander": [{
-                    "color": "#b90202",
-                    "definition": "Commander was a commissioned officer rank used by the service organizations of many civilizations. As a traditional naval grade in Human usage, commander was the second most senior line officer rank, falling between a lieutenant commander and a captain. In Romulan usage, it falls between subcommander and admiral.",
-                    "pin": "https://vignette.wikia.nocookie.net/memoryalpha/images/7/7d/PIC_Cmdr.png/revision/latest/scale-to-width-down/73?cb=20200210000257&path-prefix=en"
-                }],
-                "captain": [{
-                    "color": "#b90202",
-                    "definition": "Captain was a commissioned officer rank, the equivalent of which was used by the service organizations of many civilizations. The title of captain was often used by vessel commanders and, as a naval rank, in many Earth navies and Starfleet, was above commander. As an infantry rank, captains ranked subordinate to a major and above a first lieutenant.",
-                    "pin": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/95/Tng_capt.png/revision/latest/scale-to-width-down/146?cb=20170418032337&path-prefix=en"
-                }]
-            }]
-        }
-    ],
-    "fleet": [{
-        "ncc-74656": [
-            {
-                "information": [{
-                    "name": "USS Voyager, NCC-74656",
-                    "Launched": "2371",
-                    "Captain": "Captain Kathryn Janeway "  
-                }],
-                "general-characteristics": [{
-                    "Class": "Intrepid",
-                    "Registry": "NCC-74656",
-                    "Armaments": "Tricobalt devices, Photon torpedoes, Phasers, Bio-molecular warheads, Transphasic torpedoes, Ablative generators",
-                    "Defenses": "Shields",
-                    "Maximum speed": "Warp 9.975",
-                    "Propulsion": "Warp drive, Impulse engines",
-                    "Length": "343 meters",
-                    "Width": "116 meters",
-                    "Population volume": "varies, such as: 141 original complement, 150 during fifth year"
-                }],
-                "crew-manifest": [{
-                    "civilian": [
-                        "Lydia Anderson",
-                        "Azan",
-                        "Icheb",
-                        "Marie Kaplan",
-                        "Kes",
-                        "Marika Wilkarah",
-                        "Mezoti",
-                        "One",
-                        "Miral Paris",
-                        "Rebi",
-                        "Naomi Wildman"
-                    ],
+            "jargon": [
+                {
+                    "Tricobalt devices": "A tricobalt device, also known as a tricobalt charge or tricobalt warhead, was a type of tricobalt explosive device utilized as a missile. (DS9: 'Blaze of Glory') At extremely high yields, they were capable of producing disruptions or even ruptures in subspace. (VOY: 'The Voyager Conspiracy').",
+                    "Photon torpedoes": "Photon torpedoes were warp-capable tactical matter/antimatter weapons commonly deployed aboard starships and starbases by various organizations. Photon torpedoes, often abbreviated as 'photons', were called Pu'DaH dak cha in Klingonese. (TNG: 'The Arsenal of Freedom', etc.; ENT: 'Sleeping Dogs')",
+                    "Phasers": "Phasers were the most common and standard directed energy weapon in the arsenal of Starfleet and several other powers. Most phasers were classified as particle weapons and fire nadion particle beams, (Star Trek: First Contact; TNG: 'The Mind's Eye'; VOY: 'Time and Again', 'Demon') but some, like the Ferengi hand phaser, were classified as plasma weapons and fired forced plasma beams. (TNG: 'Descent') Based on the intensity and field of the beam and a variety of adjustments, a wide variety of effects could be achieved.",
+                    "Bio-molecular warheads": "A bio-molecular warhead was a specially-modified photon torpedo utilized as a delivery-system for Borg nanoprobes with which to combat Species 8472. Designed in 2374 by the crew of the USS Voyager in collaboration with the Borg Collective, the warheads contained a series of nanoprobes modified by The Doctor to attack 8472 on a microscopic level, constituting a weapon which could not be replicated by the Borg, necessitating an alliance.",
+                    "Transphasic torpedoes": "The transphasic torpedo was an advanced type of torpedo weapon of unprecedented destructive potential used by Starfleet. The torpedoes could be launched from standard starship-mounted torpedo launchers. A single torpedo was capable of destroying a Borg cube. This weapon technology was acquired by the crew of USS Voyager in 2378 from Admiral Kathryn Janeway of an alternate timeline. (VOY: 'Endgame')",
+                    "Ablative generators": "Ablative generators were an advanced armor technology used by Starfleet. Shield emitters generated a nearly-impenetrable layer of armor around the hull of a ship so equipped. This defensive technology was acquired by the crew of USS Voyager in 2378 from Admiral Kathryn Janeway of an alternate timeline. (VOY: 'Endgame')",
+                    "Warp drive": "In the fictional Star Trek universe, the impulse drive is the method of propulsion that starships and other spacecraft use when they are travelling below the speed of light.[1] Typically powered by deuterium fusion reactors, impulse engines let ships travel interplanetary distances readily. For example, Starfleet Academy cadets use impulse engines when flying from Earth to Saturn and back.[citation needed] Unlike the warp engines, impulse engines work on principles used in today's rocketry, throwing mass out the back as fast as possible to drive the ship forward.",
+                    "Impulse engines": "A reaction control system (RCS) is a spacecraft system that uses thrusters to provide attitude control, and sometimes translation. Use of diverted engine thrust to provide stable attitude control of a short-or-vertical takeoff and landing aircraft below conventional winged flight speeds, such as with the Harrier 'jump jet', may also be referred to as a reaction control system."
+                }
+            ],
+            "ranks": [
+                {
                     "crewman": [
-                        "Kurt Bendera",
-                        "Biddle",
-                        "Boylan",
-                        "Carlson",
-                        "Tal Celes",
-                        "Chell",
-                        "Dan Curry",
-                        "Kenneth Dalby",
-                        "Frank Darwin",
-                        "Jenny Delaney",
-                        "Megan Delaney",
-                        "Dorado",
-                        "Doyle",
-                        "Emmanuel",
-                        "Fitzpatrick",
-                        "Foster",
-                        "Gennaro",
-                        "Gerron",
-                        "Gibson",
-                        "Marla Gilmore",
-                        "Grimes",
-                        "Hamilton",
-                        "Mortimer Harren",
-                        "Henard",
-                        "Henley",
-                        "Jackson",
-                        "Jarvin",
-                        "Jarvis",
-                        "Michael Jonas",
-                        "Jones",
-                        "Jor",
-                        "Timothy Lang",
-                        "Larson",
-                        "Noah Lessing",
-                        "Lewis",
-                        "MacAlister",
-                        "William McKenzie",
-                        "McMinn",
-                        "Mitchell",
-                        "James Morrow",
-                        "Kashimuro Nozawa",
-                        "O'Donnell",
-                        "Sandra Peterson",
-                        "Jerry Platt",
-                        "Amanda Porter",
-                        "Robertson",
-                        "Rogers",
-                        "Sharr",
-                        "Brian Sofin",
-                        "Lon Suder",
-                        "Swift",
-                        "Angelo Tassoni",
-                        "William Telfer",
-                        "Thompson",
-                        "Unai",
-                        "White",
-                        "Yosa"
+                        {
+                            "color": "#c7b249",
+                            "definition": "Crewman was an enlisted rank of often limited responsibility or entry level duties, used by service organizations in various cultures, including Starfleet. In Klingonese, this rank was comparable to the rank of bekk in the Klingon Defense Force.",
+                            "pin": "https://vignette.wikia.nocookie.net/memoryalpha/images/1/16/Mov_crew.png/revision/latest/scale-to-width-down/73?cb=20170417202337&path-prefix=en"
+                        }
                     ],
                     "ensign": [
-                        "Ashmore",
-                        "Lyndsay Ballard",
-                        "Pablo Baytart",
-                        "Bennet",
-                        "Blain",
-                        "Freddy Bristow",
-                        "Doug Bronowski",
-                        "Brooks",
-                        "Daniel Byrd",
-                        "Claudia Craig",
-                        "Culhane",
-                        "Farley",
-                        "Arlene Fukai",
-                        "Golwat",
-                        "Harper",
-                        "Hickman",
-                        "Hogan",
-                        "Jenkins",
-                        "Ahni Jetal",
-                        "Jurot",
-                        "Kaplan",
-                        "Marie Kaplan",
-                        "Harry Kim",
-                        "Kyoto",
-                        "Lang",
-                        "Mannus",
-                        "Martin",
-                        "Macormak",
-                        "Molina",
-                        "Mulchaey",
-                        "Murphy",
-                        "Murphy",
-                        "John Nesterowicz",
-                        "Michael Parsons",
-                        "Rollins",
-                        "Ryson",
-                        "Seska",
-                        "Renlay Sharr",
-                        "Adele Simmons",
-                        "Strickler",
-                        "Rick Sternbach",
-                        "Swinn",
-                        "Trumari",
-                        "Vorik",
-                        "Samantha Wildman",
-                        "Charles Young"
+                        {
+                            "color": "#c7b249",
+                            "definition": "Ensign was a commissioned rank, the equivalent of which was used by the service organizations of many civilizations, namely by Starfleet, the Orions, and the Bajoran Militia. The rank or term \"ensign\" itself, was unfamiliar to the Kraylor.",
+                            "pin": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/9d/PIC_Ens.png/revision/latest/scale-to-width-down/73?cb=20200202124700&path-prefix=en"
+                        }
                     ],
                     "lieutenant": [
-                        "Andrews",
-                        "Arkinson",
-                        "Ayala",
-                        "Reginald Barclay",
-                        "Walter Baxter",
-                        "Joseph Carey",
-                        "Mandy Chamberlin",
-                        "William Chapman",
-                        "Joe Chess",
-                        "Richard Chronister",
-                        "Dick D'Angelo",
-                        "Pete Durst",
-                        "Kristine Fernandez",
-                        "Hargrove",
-                        "Phillip Jacobson",
-                        "Ralph Johnson",
-                        "J. Lyman",
-                        "Scott McKnight",
-                        "John Nesterowicz",
-                        "Susan Nicoletti",
-                        "Diane Overdiek",
-                        "Tom Paris",
-                        "Bill Peets",
-                        "David Rossi",
-                        "Russell",
-                        "S. Seaborn",
-                        "Suzi Shimizu",
-                        "Alan Sims",
-                        "Stadi",
-                        "Michael Stradling",
-                        "Mark Stimson",
-                        "Bill Thoms",
-                        "Jim Thorpe",
-                        "B'Elanna Torres",
-                        "Tuvok",
-                        "Weiss"
-                    ],
-                    "ambassador": [
-                        "Neelix"
+                        {
+                            "color": "#c7b249",
+                            "definition": "Lieutenant (US: /luːˈtɛnənt/ loo-TEN-ənt, UK: /lɛfˈtɛnənt/ lef-TEN-ənt) was a junior officer military rank, the equivalent of which was used by the service organizations of many civilizations. The German word for \"lieutenant\" was \"Leutnant\". (TNG: \"Tapestry\") The British pronunciation was \"lef-tenant\".",
+                            "pin": "https://vignette.wikia.nocookie.net/memoryalpha/images/3/36/PIC_Lt.png/revision/latest/scale-to-width-down/73?cb=20200202115737&path-prefix=en"
+                        }
                     ],
                     "chief-medical-officer": [
-                        "The Doctor"
-                    ],
-                    "lieutenant-commander": [
-                        "Bob Blackman",
-                        "Dick Brownfield",
-                        "Cavit",
-                        "Merri Howard",
-                        "Richard James",
-                        "Peter Lauritson",
-                        "David Livingston",
-                        "James Mees",
-                        "Michael Piller",
-                        "Marvin Rush",
-                        "Brad Yacobian",
-                        "T. Ziegler"
+                        {
+                            "color": "#72abff",
+                            "definition": "The chief medical officer (CMO), first medical officer, senior medical officer, or ship's surgeon was a senior staff-level position, typically held by a lieutenant commander or commander who was a doctor of medicine with surgical skills. A nurse could also hold this position if no qualified doctors were available.",
+                            "pin": ""
+                        }
                     ],
                     "commander": [
-                        "J. Bartlett",
-                        "Rick Berman",
-                        "Brannon Braga",
-                        "Chakotay",
-                        "Mendez",
-                        "Quinn",
-                        "Jeri Taylor"
+                        {
+                            "color": "#b90202",
+                            "definition": "Commander was a commissioned officer rank used by the service organizations of many civilizations. As a traditional naval grade in Human usage, commander was the second most senior line officer rank, falling between a lieutenant commander and a captain. In Romulan usage, it falls between subcommander and admiral.",
+                            "pin": "https://vignette.wikia.nocookie.net/memoryalpha/images/7/7d/PIC_Cmdr.png/revision/latest/scale-to-width-down/73?cb=20200210000257&path-prefix=en"
+                        }
                     ],
                     "captain": [
-                        "Kathryn Janeway"
+                        {
+                            "color": "#b90202",
+                            "definition": "Captain was a commissioned officer rank, the equivalent of which was used by the service organizations of many civilizations. The title of captain was often used by vessel commanders and, as a naval rank, in many Earth navies and Starfleet, was above commander. As an infantry rank, captains ranked subordinate to a major and above a first lieutenant.",
+                            "pin": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/95/Tng_capt.png/revision/latest/scale-to-width-down/146?cb=20170418032337&path-prefix=en"
+                        }
                     ]
-                }]
-            }
-        ]
-    }],
+                }
+            ]
+        }
+    ],
+    "fleet": [
+        {
+            "ncc-74656": [
+                {
+                    "information": [
+                        {
+                            "name": "USS Voyager, NCC-74656",
+                            "Launched": "2371",
+                            "Captain": "Captain Kathryn Janeway "
+                        }
+                    ],
+                    "general-characteristics": [
+                        {
+                            "Class": "Intrepid",
+                            "Registry": "NCC-74656",
+                            "Armaments": "Tricobalt devices, Photon torpedoes, Phasers, Bio-molecular warheads, Transphasic torpedoes, Ablative generators",
+                            "Defenses": "Shields",
+                            "Maximum speed": "Warp 9.975",
+                            "Propulsion": "Warp drive, Impulse engines",
+                            "Length": "343 meters",
+                            "Width": "116 meters",
+                            "Population volume": "varies, such as: 141 original complement, 150 during fifth year"
+                        }
+                    ],
+                    "crew-manifest": [
+                        {
+                            "civilian": [
+                                "Lydia Anderson",
+                                "Azan",
+                                "Icheb",
+                                "Marie Kaplan",
+                                "Kes",
+                                "Marika Wilkarah",
+                                "Mezoti",
+                                "One",
+                                "Miral Paris",
+                                "Rebi",
+                                "Naomi Wildman"
+                            ],
+                            "crewman": [
+                                "Kurt Bendera",
+                                "Biddle",
+                                "Boylan",
+                                "Carlson",
+                                "Tal Celes",
+                                "Chell",
+                                "Dan Curry",
+                                "Kenneth Dalby",
+                                "Frank Darwin",
+                                "Jenny Delaney",
+                                "Megan Delaney",
+                                "Dorado",
+                                "Doyle",
+                                "Emmanuel",
+                                "Fitzpatrick",
+                                "Foster",
+                                "Gennaro",
+                                "Gerron",
+                                "Gibson",
+                                "Marla Gilmore",
+                                "Grimes",
+                                "Hamilton",
+                                "Mortimer Harren",
+                                "Henard",
+                                "Henley",
+                                "Jackson",
+                                "Jarvin",
+                                "Jarvis",
+                                "Michael Jonas",
+                                "Jones",
+                                "Jor",
+                                "Timothy Lang",
+                                "Larson",
+                                "Noah Lessing",
+                                "Lewis",
+                                "MacAlister",
+                                "William McKenzie",
+                                "McMinn",
+                                "Mitchell",
+                                "James Morrow",
+                                "Kashimuro Nozawa",
+                                "O'Donnell",
+                                "Sandra Peterson",
+                                "Jerry Platt",
+                                "Amanda Porter",
+                                "Robertson",
+                                "Rogers",
+                                "Sharr",
+                                "Brian Sofin",
+                                "Lon Suder",
+                                "Swift",
+                                "Angelo Tassoni",
+                                "William Telfer",
+                                "Thompson",
+                                "Unai",
+                                "White",
+                                "Yosa"
+                            ],
+                            "ensign": [
+                                "Ashmore",
+                                "Lyndsay Ballard",
+                                "Pablo Baytart",
+                                "Bennet",
+                                "Blain",
+                                "Freddy Bristow",
+                                "Doug Bronowski",
+                                "Brooks",
+                                "Daniel Byrd",
+                                "Claudia Craig",
+                                "Culhane",
+                                "Farley",
+                                "Arlene Fukai",
+                                "Golwat",
+                                "Harper",
+                                "Hickman",
+                                "Hogan",
+                                "Jenkins",
+                                "Ahni Jetal",
+                                "Jurot",
+                                "Kaplan",
+                                "Marie Kaplan",
+                                "Harry Kim",
+                                "Kyoto",
+                                "Lang",
+                                "Mannus",
+                                "Martin",
+                                "Macormak",
+                                "Molina",
+                                "Mulchaey",
+                                "Murphy",
+                                "Murphy",
+                                "John Nesterowicz",
+                                "Michael Parsons",
+                                "Rollins",
+                                "Ryson",
+                                "Seska",
+                                "Renlay Sharr",
+                                "Adele Simmons",
+                                "Strickler",
+                                "Rick Sternbach",
+                                "Swinn",
+                                "Trumari",
+                                "Vorik",
+                                "Samantha Wildman",
+                                "Charles Young"
+                            ],
+                            "lieutenant": [
+                                "Andrews",
+                                "Arkinson",
+                                "Ayala",
+                                "Reginald Barclay",
+                                "Walter Baxter",
+                                "Joseph Carey",
+                                "Mandy Chamberlin",
+                                "William Chapman",
+                                "Joe Chess",
+                                "Richard Chronister",
+                                "Dick D'Angelo",
+                                "Pete Durst",
+                                "Kristine Fernandez",
+                                "Hargrove",
+                                "Phillip Jacobson",
+                                "Ralph Johnson",
+                                "J. Lyman",
+                                "Scott McKnight",
+                                "John Nesterowicz",
+                                "Susan Nicoletti",
+                                "Diane Overdiek",
+                                "Tom Paris",
+                                "Bill Peets",
+                                "David Rossi",
+                                "Russell",
+                                "S. Seaborn",
+                                "Suzi Shimizu",
+                                "Alan Sims",
+                                "Stadi",
+                                "Michael Stradling",
+                                "Mark Stimson",
+                                "Bill Thoms",
+                                "Jim Thorpe",
+                                "B'Elanna Torres",
+                                "Tuvok",
+                                "Weiss"
+                            ],
+                            "ambassador": [
+                                "Neelix"
+                            ],
+                            "chief-medical-officer": [
+                                "The Doctor"
+                            ],
+                            "lieutenant-commander": [
+                                "Bob Blackman",
+                                "Dick Brownfield",
+                                "Cavit",
+                                "Merri Howard",
+                                "Richard James",
+                                "Peter Lauritson",
+                                "David Livingston",
+                                "James Mees",
+                                "Michael Piller",
+                                "Marvin Rush",
+                                "Brad Yacobian",
+                                "T. Ziegler"
+                            ],
+                            "commander": [
+                                "J. Bartlett",
+                                "Rick Berman",
+                                "Brannon Braga",
+                                "Chakotay",
+                                "Mendez",
+                                "Quinn",
+                                "Jeri Taylor"
+                            ],
+                            "captain": [
+                                "Kathryn Janeway"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
     "members": [
         "Alpha Centauri",
         "Andoria (Andorian Empire)",
@@ -439,1270 +463,732 @@
         "Zaldan",
         "Zytchin III"
     ],
-    "personnel": [{
-        "Andrews": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Arkinson": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Ashmore": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Ayala": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Lyndsay Ballard": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Reginald Barclay": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "J. Bartlett": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Walter Baxter": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Pablo Baytart": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Kurt Bendera": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Bennet": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Rick Berman": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Biddle": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Bob Blackman": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Blain": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Boylan": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Brannon Braga": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Freddy Bristow": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Doug Bronowski": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Brooks": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Dick Brownfield": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Daniel Byrd": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Joseph Carey": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Carlson": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Cavit": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Tal Celes": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Chakotay": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Mandy Chamberlin": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "William Chapman": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Chell": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Joe Chess": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Richard Chronister": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Claudia Craig": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Culhane": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Dan Curry": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Dick D'Angelo": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Kenneth Dalby": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Frank Darwin": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Jenny Delaney": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Megan Delaney": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "The Doctor": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Dorado": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Doyle": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Pete Durst": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Emmanuel": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Farley": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Kristine Fernandez": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Fitzpatrick": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Foster": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Arlene Fukai": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Gennaro": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Gerron": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Gibson": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Marla Gilmore": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Golwat": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Grimes": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Hamilton": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Hargrove": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Harper": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Mortimer Harren": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Henard": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Henley": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Hickman": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Hogan": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Merri Howard": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Jackson": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Phillip Jacobson": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Richard James": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Kathryn Janeway": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Jarvin": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Jarvis": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Jenkins": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Ahni Jetal": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Ralph Johnson": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Michael Jonas": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Jones": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Jor": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Jurot": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Marie Kaplan": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Kaplan": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Harry Kim": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Kyoto": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Timothy Lang": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Lang": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Larson": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Peter Lauritson": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Noah Lessing": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Lewis": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "David Livingston": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "J. Lyman": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "MacAlister": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Macormak": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Mannus": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Martin": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "William McKenzie": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Scott McKnight": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "McMinn": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "James Mees": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Mendez": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Mitchell": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Molina": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "James Morrow": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Mulchaey": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Murphy": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Neelix": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "John Nesterowicz": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Susan Nicoletti": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Kashimuro Nozawa": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "O'Donnell": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Diane Overdiek": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Tom Paris": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Michael Parsons": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Bill Peets": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Sandra Peterson": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Michael Piller": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Jerry Platt": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Amanda Porter": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Quinn": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Robertson": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Rogers": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Rollins": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "David Rossi": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Marvin Rush": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Russell": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Ryson": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "S. Seaborn": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Seska": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Renlay Sharr": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Sharr": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Suzi Shimizu": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Adele Simmons": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Alan Sims": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Brian Sofin": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Stadi": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Rick Sternbach": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Mark Stimson": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Michael Stradling": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Strickler": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Lon Suder": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Swift": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Swinn": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Angelo Tassoni": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Jeri Taylor": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "William Telfer": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Thompson": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Bill Thoms": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Jim Thorpe": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "B'Elanna Torres": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Trumari": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Tuvok": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Unai": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Vorik": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Weiss": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "White": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Samantha Wildman": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Brad Yacobian": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "Yosa": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }],
-        "T. Ziegler": [{
-            "affiliation": "",
-            "gender": "",
-            "occupation": "",
-            "rank": "",
-            "species": "",
-            "serial-number": ""
-        }]
-    }]
+    "personnel": [
+        {
+            "name": "Seven of Nine",
+            "lastName": null,
+            "gender": "Female",
+            "species": null,
+            "affiliation": "Fenris Rangers (formerly Federation Starfleet)",
+            "occupation": null,
+            "serial": null,
+            "status": "Active (2399)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/f/fd/Seven_of_Nine%2C_2399.jpg/revision/latest/scale-to-width-down/350?cb=20200221051322&path-prefix=en"
+        },
+        {
+            "name": "Andrews",
+            "lastName": null,
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant",
+            "occupation": "Security officer",
+            "status": "Active (2371)",
+            "serial": null,
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/4/42/Andrews%2C_Shattered.jpg/revision/latest/scale-to-width-down/350?cb=20091212184736&path-prefix=en"
+        },
+        {
+            "name": "Arkinson",
+            "lastName": null,
+            "gender": "Male",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2376)",
+            "imgUrl": "null"
+        },
+        {
+            "name": "Ashmore",
+            "lastName": null,
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Ensign",
+            "occupation": "Engineer",
+            "serial": null,
+            "status": "Active (2378)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/8/8e/Ayala_command_uniform.jpg/revision/latest?cb=20180630092650&path-prefix=en"
+        },
+        {
+            "name": "Lyndsay Ballard",
+            "lastName": null,
+            "gender": "Female",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Ensign",
+            "occupation": "Engineer",
+            "serial": "RN 842 6301",
+            "status": "Deceased (2374)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/4/49/Lyndsay_ballard.jpg/revision/latest?cb=20050102173202&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Bartlett",
+            "gender": "Male",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Commander",
+            "occupation": "USS Voyager crewmember",
+            "serial": "RM 683-3164",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/8/86/Voyager_casualty_list.jpg/revision/latest/scale-to-width-down/350?cb=20190222150952&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Baxter",
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant",
+            "occupation": "Officer; USS Voyager",
+            "serial": null,
+            "status": "Active (2371)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/e/e8/Walter_Baxter%2C_operations_division.jpg/revision/latest/scale-to-width-down/350?cb=20190401144214&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Baytart",
+            "gender": "Male",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Ensign",
+            "occupation": "Pilot",
+            "serial": null,
+            "status": "Active (2372)",
+            "imgUrl": null
+        },
+        {
+            "name": null,
+            "lastName": "Bendera",
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Starfleet (former Maquis)",
+            "occupation": "Engineering, USS Voyager (former resistance fighter)",
+            "serial": null,
+            "status": "Deceased (KIA) (2372)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/6/63/Kurt_bendera.jpg/revision/latest/scale-to-width-down/350?cb=20050204073300&path-prefix=en"
+        },
+        {
+            "name": "Bennet",
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "occupation": "Operations division USS Voyager",
+            "serial": null,
+            "status": "Deceased (2372)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/f/ff/Bennet_%28Ensign%29.jpg/revision/latest/scale-to-width-down/350?cb=20070220043127&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Berman",
+            "gender": "Male",
+            "affiliation": "Federation Starfleet",
+            "rank": "Commander",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2374)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/6/68/USS_Voyager_crew_manifest%2C_The_killing_game_I_1.jpg/revision/latest/scale-to-width-down/350?cb=20060402232410&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Bernard",
+            "gender": "Male",
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant Commander",
+            "occupation": "USS Voyager, planetary geosciences division",
+            "serial": null,
+            "status": "Active (2372)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Bernard",
+            "gender": "Male",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2372)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Biller",
+            "gender": "Male",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Ensign",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2374)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/6/68/USS_Voyager_crew_manifest%2C_The_killing_game_I_1.jpg/revision/latest/scale-to-width-down/350?cb=20060402232410&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Blackman",
+            "gender": "Male",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant commander",
+            "occupation": "USS Voyager planetary geosciences division",
+            "serial": null,
+            "status": "Active (2372)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+        },
+        {
+            "name": "Blain",
+            "lastName": null,
+            "gender": null,
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Ensign",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2374)",
+            "imgUrl": null
+        },
+        {
+            "name": null,
+            "lastName": "Bosché",
+            "gender": "Female",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant",
+            "occupation": "USS Voyager crewmember",
+            "status": "Active (2372)",
+            "serial": null,
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+        },
+        {
+            "name": "Boylan",
+            "lastName": null,
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Crewmen",
+            "status": "Active (2375)",
+            "serial": null,
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/f/f3/Boylan.jpg/revision/latest?cb=20060215031247&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Braga",
+            "gender": "Male",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Commander",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2374)",
+            "imgUrl": null
+        },
+        {
+            "name": null,
+            "lastName": "Bristow",
+            "gender": "Male",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Ensign",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2373)",
+            "imgUrl": null
+        },
+        {
+            "name": null,
+            "lastName": "Bronowski",
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Ensign",
+            "occupation": "Command division officer",
+            "serial": "KH-128-0409-JVD",
+            "status": null,
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/0/01/Doug_Bronowski.jpg/revision/latest?cb=20080427084827&path-prefix=en"
+        },
+        {
+            "name": "Brooks",
+            "lastName": null,
+            "gender": "Female",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Ensign",
+            "occupation": "Starfleet command division officer",
+            "status": "Active (2378)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/1/1d/Brooks_%28Ensign%29.jpg/revision/latest/scale-to-width-down/350?cb=20050814061715&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Brownfield",
+            "gender": "Male",
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant Commander",
+            "occupation": "USS Voyager crewmember",
+            "status": "Active (2372)",
+            "serial": null,
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Byrd",
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Ensign",
+            "serial": null,
+            "status": "Active (2370)",
+            "imgUrl": null
+        },
+        {
+            "name": "Carlson",
+            "lastName": null,
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Maquis (formerly) Federation Starfleet",
+            "rank": "Provisional officer",
+            "occupation": "Resistance fighter (formerly) Operations division officer",
+            "serial": null,
+            "status": "Active (2371)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/3/3f/Carlson.jpg/revision/latest/scale-to-width-down/350?cb=20050808052003&path-prefix=en"
+        },
+        {
+            "name": "Cavit",
+            "lastName": null,
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant commander",
+            "occupation": "First officer, USS Voyager",
+            "serial": null,
+            "status": "Deceased (2371)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/a/a1/Cavit.jpg/revision/latest/scale-to-width-down/350?cb=20080914152926&path-prefix=en"
+        },
+        {
+            "name": "Chakotay",
+            "lastName": null,
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Chakotay's tribe Federation Starfleet",
+            "rank": "Commander (provisional)",
+            "occupation": "First officer, USS Voyager",
+            "serial": "47-alpha-612",
+            "status": "Active (2378)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/b/b6/Chakotay%2C_2377.jpg/revision/latest?cb=20061010061453&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Chamberlin",
+            "gender": "Female",
+            "affiliation": "Federation Starfleet",
+            "species": null,
+            "rank": "Lieutenant",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2372)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Chapman",
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant",
+            "occupation": "Engineer",
+            "serial": null,
+            "status": "Active (2375)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/4/45/William_Chapman_in_uniform.jpg/revision/latest/scale-to-width-down/350?cb=20080427083348&path-prefix=en"
+        },
+        {
+            "name": "Chell",
+            "lastName": null,
+            "gender": "Male",
+            "species": "Bolian",
+            "affiliation": "Maquis (formerly) Federation Starfleet",
+            "rank": "Crewman (provisional)",
+            "occupation": "Resistance fighter (formerly) USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2378)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/0/0b/Chell.jpg/revision/latest/scale-to-width-down/350?cb=20051012001109&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Chess",
+            "gender": "Male",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2372)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/c/c8/USS_Voyager_crew_manifest%2C_Projections.jpg/revision/latest/scale-to-width-down/350?cb=20060402232303&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Chronister",
+            "gender": "Male",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2372)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/c/c8/USS_Voyager_crew_manifest%2C_Projections.jpg/revision/latest/scale-to-width-down/350?cb=20060402232303&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Conley",
+            "gender": "Male",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2372)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Craig",
+            "gender": "Female",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Ensign",
+            "occupation": "USS Voyager crewmember",
+            "serial": "SJ 583 2619",
+            "status": "Deceased (2370s)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/8/86/Voyager_casualty_list.jpg/revision/latest/scale-to-width-down/350?cb=20190222150952&path-prefix=en"
+        },
+        {
+            "name": "Culhane",
+            "lastName": null,
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Ensign",
+            "occupation": "Conn/Tactical officer/Engineer",
+            "serial": null,
+            "status": "Active (2378)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/a/aa/Culhane.jpg/revision/latest?cb=20160508114803&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "D'Angelo",
+            "gender": "Male",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2372)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/c/c8/USS_Voyager_crew_manifest%2C_Projections.jpg/revision/latest/scale-to-width-down/350?cb=20060402232303&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Dalby",
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Maquis (formerly) Federation Starfleet",
+            "rank": "Crewman (provisional)",
+            "occupation": "Resistance fighter (formerly) USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2371)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/a/a1/KennethDalby.jpg/revision/latest/scale-to-width-down/350?cb=20080304195321&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Darwin",
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Crewman",
+            "occupation": "Engineer",
+            "serial": null,
+            "status": "Deceased; murdered by Lon Suder (2372)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/d/db/Frank_Darwin.jpg/revision/latest/scale-to-width-down/350?cb=20060215023913&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Dean",
+            "gender": "Male",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant Commander",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2372)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Delaney",
+            "gender": "Female",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "serial": null,
+            "occupation": "Science officer",
+            "status": "Active (2375)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/8/82/Jenny_and_Megan_Delaney.jpg/revision/latest/scale-to-width-down/350?cb=20060620171853&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Delaney",
+            "gender": "Female",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "serial": null,
+            "occupation": "Science officer",
+            "status": "Active (2375)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/8/82/Jenny_and_Megan_Delaney.jpg/revision/latest/scale-to-width-down/350?cb=20060620171853&path-prefix=en"
+        },
+        {
+            "name": "Dell",
+            "lastName": null,
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Crewman",
+            "occupation": "Operations division non-commissioned officer",
+            "serial": null,
+            "status": "Active (2374)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/3/37/Dell.jpg/revision/latest?cb=20181003040700&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "DeMeritt",
+            "gender": "Male",
+            "affiliation": "Federation Starfleet",
+            "rank": "Ensign",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2374)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/c/c8/USS_Voyager_crew_manifest%2C_Projections.jpg/revision/latest/scale-to-width-down/350?cb=20060402232303&path-prefix=en"
+        },
+        {
+            "name": "Dorado",
+            "lastName": null,
+            "gender": "Female",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Crewman",
+            "occupation": "Bridge officer Engineering officer",
+            "serial": null,
+            "status": "Active (2374)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/6/6f/Dorado.jpg/revision/latest?cb=20161023193509&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Durst",
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": null,
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/6/6a/Pete_Durst.jpg/revision/latest/scale-to-width-down/350?cb=20050820210750&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Dorton",
+            "gender": null,
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Activation date (2371)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/c/c8/USS_Voyager_crew_manifest%2C_Projections.jpg/revision/latest/scale-to-width-down/350?cb=20060402232303&path-prefix=en"
+        },
+        {
+            "name": "The Doctor",
+            "lastName": null,
+            "gender": "Male",
+            "species": "Hologram",
+            "affiliation": "Federation Starfleet",
+            "occupation": "Operations division officer",
+            "rank": "Chief Medical Officer",
+            "serial": null,
+            "status": "Active (2374)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/8/83/Emmanuel_and_Strickler.jpg/revision/latest?cb=20161215003747&path-prefix=en"
+        },
+        {
+            "name": "Emmanuel",
+            "lastName": null,
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "occupation": "Operations division officer",
+            "serial": null,
+            "status": "Active (2374)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/8/83/Emmanuel_and_Strickler.jpg/revision/latest?cb=20161215003747&path-prefix=en"
+        },
+        {
+            "name": "Farley",
+            "lastName": null,
+            "gender": null,
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Ensign",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2376)",
+            "imgUrl": null
+        },
+        {
+            "name": null,
+            "lastName": "Fernandez",
+            "gender": "Female",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2374)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/6/68/USS_Voyager_crew_manifest%2C_The_killing_game_I_1.jpg/revision/latest/scale-to-width-down/350?cb=20060402232410&path-prefix=en"
+        },
+        {
+            "name": "Fitzpatrick",
+            "lastName": null,
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Federation Starfleet (Formerly Maquis)",
+            "rank": "Ensign",
+            "occupation": "Bridge officer (Formerly resistance fighter)",
+            "serial": null,
+            "status": "Active (2377)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/6/68/Fitzpatrick%2C_2374.jpg/revision/latest?cb=20161023205235&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Fleck",
+            "gender": "Male",
+            "affiliation": "Federation Starfleet",
+            "rank": "Ensign",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2374)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+        },
+        {
+            "name": "Foster",
+            "lastName": null,
+            "gender": "Female",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Crewman",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2377)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/c/cd/Foster%2C_2373.jpg/revision/latest?cb=20160508115106&path-prefix=en"
+        },
+        {
+            "name": "Frank",
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Crewman",
+            "occupation": "Command division",
+            "serial": null,
+            "status": "Active (2377)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/8/87/Frank%2C_2376.jpg/revision/latest?cb=20200218185924&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Fukai",
+            "gender": "Female",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Ensign",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2374)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+        },
+        {
+            "name": "Gennaro",
+            "lastName": null,
+            "gender": "Male",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Crewman",
+            "occupation": "USS Voyager crewman",
+            "serial": null,
+            "status": "Active (2373)",
+            "imgUrl": null
+        },
+        {
+            "name": null,
+            "lastName": "Genovese",
+            "gender": "Male",
+            "species": null,
+            "affiliation": "Federation Starfleet",
+            "rank": "Lieutenant",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2374)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+        },
+        {
+            "name": "Gerron",
+            "lastName": null,
+            "gender": "Male",
+            "species": "Bajoran",
+            "affiliation": "Maquis (formerly) Federation Starfleet",
+            "rank": "Crewman (provisional)",
+            "occupation": "Resistance fighter (formerly) USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2371)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/a/a0/Gerron.jpg/revision/latest/scale-to-width-down/350?cb=20080506215905&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Gibson",
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Ensign",
+            "occupation": "Security officer",
+            "serial": null,
+            "status": "Active (2376)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/96/Security_officer_with_Tuvok%2C_2375.jpg/revision/latest/scale-to-width-down/350?cb=20171231130730&path-prefix=en"
+        },
+        {
+            "name": null,
+            "lastName": "Gilmore",
+            "gender": "Female",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "rank": "Ensign (-2376) Crewman (stripped of rank, 2376)",
+            "occupation": "Engineer",
+            "serial": null,
+            "status": "Active (2376)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/e/ea/Marla_Gilmore.jpg/revision/latest/scale-to-width-down/350?cb=20110107151017&path-prefix=en"
+        },
+        {
+            "name": "Golwat",
+            "lastName": null,
+            "gender": "Female",
+            "species": "Bolian",
+            "affiliation": "Federation Starfleet",
+            "rank": "Ensign",
+            "occupation": "USS Voyager crewmember",
+            "serial": null,
+            "status": "Active (2377)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/1/10/Golwat.jpg/revision/latest/scale-to-width-down/350?cb=20080930121123&path-prefix=en"
+        },
+        {
+            "name": "Grimes",
+            "lastName": null,
+            "gender": "Male",
+            "species": "Human",
+            "affiliation": "Federation Starfleet",
+            "occupation": "Conn officer",
+            "serial": null,
+            "status": "Active (2372)",
+            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/d/d8/Grimes%2C_2372.jpg/revision/latest/scale-to-width-down/350?cb=20060119012837&path-prefix=en"
+        }
+    ]
 }

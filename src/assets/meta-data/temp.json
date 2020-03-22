@@ -1,0 +1,654 @@
+"name": "Seven of Nine",
+"lastName": null,
+"gender": "Female",
+"species": null,
+"affiliation": "Fenris Rangers (formerly Federation Starfleet)",
+"occupation": null,
+"serial": null,
+"status": "Active (2399)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/f/fd/Seven_of_Nine%2C_2399.jpg/revision/latest/scale-to-width-down/350?cb=20200221051322&path-prefix=en"
+
+"name": "Andrews",
+"lastName": null,
+"gender": "Male",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant",
+"occupation": "Security officer",
+"status": "Active (2371)",
+"serial": null,
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/4/42/Andrews%2C_Shattered.jpg/revision/latest/scale-to-width-down/350?cb=20091212184736&path-prefix=en"
+
+"name": "Arkinson",
+"lastName": null,
+"gender": "Male",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2376)",
+"imgUrl": "null"
+
+"name": "Ashmore",
+"lastName": null,
+"gender": "Male",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Ensign",
+"occupation": "Engineer",
+"serial": null,
+"status": "Active (2378)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/8/8e/Ayala_command_uniform.jpg/revision/latest?cb=20180630092650&path-prefix=en"
+
+"name": "Lyndsay Ballard",
+"lastName": null,
+"gender": "Female",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Ensign",
+"occupation": "Engineer",
+"serial": "RN 842 6301",
+"status": "Deceased (2374)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/4/49/Lyndsay_ballard.jpg/revision/latest?cb=20050102173202&path-prefix=en"
+
+"name": null,
+"lastName": "Bartlett",
+"gender": "Male",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Commander",
+"occupation": "USS Voyager crewmember",
+"serial": "RM 683-3164",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/8/86/Voyager_casualty_list.jpg/revision/latest/scale-to-width-down/350?cb=20190222150952&path-prefix=en"
+
+"name":  null ,
+"lastName": "Baxter",
+"gender": "Male",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant",
+"occupation": "Officer; USS Voyager",
+"serial": null,
+"status": "Active (2371)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/e/e8/Walter_Baxter%2C_operations_division.jpg/revision/latest/scale-to-width-down/350?cb=20190401144214&path-prefix=en"
+
+"name":  null ,
+"lastName": "Baytart",
+"gender": "Male",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Ensign",
+"occupation": "Pilot",
+"serial": null,
+"status": "Active (2372)",
+"imgUrl": null
+
+"name":  null ,
+"lastName": "Bendera",
+"gender": "Male",
+"species": "Human",
+"affiliation": "Starfleet (former Maquis)",
+"occupation": "Engineering, USS Voyager (former resistance fighter)",
+"serial": null,
+"status": "Deceased (KIA) (2372)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/6/63/Kurt_bendera.jpg/revision/latest/scale-to-width-down/350?cb=20050204073300&path-prefix=en"
+
+"name": "Bennet",
+"gender": "Male",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"occupation": "Operations division USS Voyager",
+"serial": null,
+"status": "Deceased (2372)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/f/ff/Bennet_%28Ensign%29.jpg/revision/latest/scale-to-width-down/350?cb=20070220043127&path-prefix=en"
+
+"name":  null ,
+"lastName": "Berman",
+"gender": "Male",
+"affiliation": "Federation Starfleet",
+"rank": "Commander",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2374)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/6/68/USS_Voyager_crew_manifest%2C_The_killing_game_I_1.jpg/revision/latest/scale-to-width-down/350?cb=20060402232410&path-prefix=en"
+
+"name":  null ,
+"lastName": "Bernard",
+"gender": "Male",
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant Commander",
+"occupation": "USS Voyager, planetary geosciences division",
+"serial": null,
+"status": "Active (2372)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+
+"name":  null ,
+"lastName": "Bernard",
+"gender": "Male",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2372)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+
+"name":  null ,
+"lastName": "Biller",
+"gender": "Male",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Ensign",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2374)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/6/68/USS_Voyager_crew_manifest%2C_The_killing_game_I_1.jpg/revision/latest/scale-to-width-down/350?cb=20060402232410&path-prefix=en"
+
+"name":  null ,
+"lastName": "Blackman",
+"gender": "Male",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant commander",
+"occupation": "USS Voyager planetary geosciences division",
+"serial": null,
+"status": "Active (2372)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+
+"name": "Blain"
+"lastName": null,
+"gender": null,
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Ensign",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2374)",
+"imgUrl": null
+
+"name":  null ,
+"lastName": "Bosché",
+"gender": "Female",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant",
+"occupation": "USS Voyager crewmember",
+"status": "Active (2372)",
+"serial": null,
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+
+"name": "Boylan"
+"lastName": null,
+"gender": "Male",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Crewmen",
+"status": "Active (2375)",
+"serial": null,
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/f/f3/Boylan.jpg/revision/latest?cb=20060215031247&path-prefix=en"
+
+"name":  null ,
+"lastName": "Braga",
+"gender": "Male",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Commander",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2374)",
+"imgUrl": null
+
+"name":  null ,
+"lastName": "Bristow",
+"gender": "Male",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Ensign",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2373)",
+"imgUrl": null
+
+"name":  null ,
+"lastName": "Bronowski",
+"gender": "Male",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Ensign",
+"occupation": "Command division officer",
+"serial": "KH-128-0409-JVD",
+"status": null,
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/0/01/Doug_Bronowski.jpg/revision/latest?cb=20080427084827&path-prefix=en"
+
+"name": "Brooks"
+"lastName": null,
+"gender": "Female",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Ensign",
+"occupation": "Starfleet command division officer",
+"status": "Active (2378)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/1/1d/Brooks_%28Ensign%29.jpg/revision/latest/scale-to-width-down/350?cb=20050814061715&path-prefix=en"
+
+"name":  null ,
+"lastName": "Brownfield",
+"gender": "Male",
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant Commander",
+"occupation": "USS Voyager crewmember",
+"status": "Active (2372)",
+"serial": null,
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+
+"name":  null ,
+"lastName": "Byrd",
+"gender": "Male",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Ensign",
+"serial": null,
+"status": "Active (2370)",
+"imgUrl": null
+
+"name": "Carlson"
+"lastName": null,
+"gender": "Male",
+"species": "Human",
+"affiliation": "Maquis (formerly) Federation Starfleet",
+"rank": "Provisional officer",
+"occupation": "Resistance fighter (formerly) Operations division officer",
+"serial": null,
+"status": "Active (2371)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/3/3f/Carlson.jpg/revision/latest/scale-to-width-down/350?cb=20050808052003&path-prefix=en"
+
+"name": "Cavit"
+"lastName": null,
+"gender": "Male",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant commander",
+"occupation": "First officer, USS Voyager",
+"serial": null,
+"status": "Deceased (2371)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/a/a1/Cavit.jpg/revision/latest/scale-to-width-down/350?cb=20080914152926&path-prefix=en"
+
+"name": "Chakotay"
+"lastName": null,
+"gender": "Male",
+"species": "Human",
+"affiliation": "Chakotay's tribe Federation Starfleet",
+"rank": "Commander (provisional)",
+"occupation": "First officer, USS Voyager",
+"serial": "47-alpha-612",
+"status": "Active (2378)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/b/b6/Chakotay%2C_2377.jpg/revision/latest?cb=20061010061453&path-prefix=en"
+
+"name":  null ,
+"lastName": "Chamberlin",
+"gender": "Female",
+"affiliation": "Federation Starfleet",
+"species": null,
+"rank": "Lieutenant",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2372)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+
+"name":  null ,
+"lastName": "Chapman",
+"gender": "Male",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant",
+"occupation": "Engineer",
+"serial": null,
+"status": "Active (2375)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/4/45/William_Chapman_in_uniform.jpg/revision/latest/scale-to-width-down/350?cb=20080427083348&path-prefix=en"
+
+"name": "Chell"
+"lastName": null,
+"gender": "Male",
+"species": "Bolian",
+"affiliation": "Maquis (formerly) Federation Starfleet",
+"rank": "Crewman (provisional)",
+"occupation": "Resistance fighter (formerly) USS Voyager crewmember",
+"serial": null,
+"status": "Active (2378)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/0/0b/Chell.jpg/revision/latest/scale-to-width-down/350?cb=20051012001109&path-prefix=en"
+
+"name":  null ,
+"lastName": "Chess",
+"gender": "Male",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2372)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/c/c8/USS_Voyager_crew_manifest%2C_Projections.jpg/revision/latest/scale-to-width-down/350?cb=20060402232303&path-prefix=en"
+
+"name":  null ,
+"lastName": "Chronister",
+"gender": "Male",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2372)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/c/c8/USS_Voyager_crew_manifest%2C_Projections.jpg/revision/latest/scale-to-width-down/350?cb=20060402232303&path-prefix=en"
+
+"name":  null ,
+"lastName": "Conley",
+"gender": "Male",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2372)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+
+"name":  null ,
+"lastName": "Craig",
+"gender": "Female",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Ensign",
+"occupation": "USS Voyager crewmember",
+"serial": "SJ 583 2619",
+"status": "Deceased (2370s)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/8/86/Voyager_casualty_list.jpg/revision/latest/scale-to-width-down/350?cb=20190222150952&path-prefix=en"
+
+"name": "Culhane"
+"lastName": null,
+"gender": "Male",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Ensign",
+"occupation": "Conn/Tactical officer/Engineer",
+"status": "Active (2378)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/a/aa/Culhane.jpg/revision/latest?cb=20160508114803&path-prefix=en"
+
+"name":  null ,
+"lastName": "D'Angelo",
+"gender": "Male",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2372)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/c/c8/USS_Voyager_crew_manifest%2C_Projections.jpg/revision/latest/scale-to-width-down/350?cb=20060402232303&path-prefix=en"
+
+"name":  null ,
+"lastName": "Dalby",
+"gender": "Male",
+"species": "Human",
+"affiliation": "Maquis (formerly) Federation Starfleet",
+"rank": "Crewman (provisional)",
+"occupation": "Resistance fighter (formerly) USS Voyager crewmember",
+"serial": null,
+"status": "Active (2371)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/a/a1/KennethDalby.jpg/revision/latest/scale-to-width-down/350?cb=20080304195321&path-prefix=en"
+
+"name":  null ,
+"lastName": "Darwin",
+"gender": "Male",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Crewman",
+"occupation": "Engineer",
+"serial": null,
+"status": "Deceased; murdered by Lon Suder (2372)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/d/db/Frank_Darwin.jpg/revision/latest/scale-to-width-down/350?cb=20060215023913&path-prefix=en"
+
+"name":  null ,
+"lastName": "Dean",
+"gender": "Male",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant Commander",
+"occupation": "USS Voyager crewmember",
+"species": null,
+"status": "Active (2372)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+
+"name":  null ,
+"lastName": "Delaney",
+"gender": "Female",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"serial": null,
+"occupation": "Science officer",
+"status": "Active (2375)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/8/82/Jenny_and_Megan_Delaney.jpg/revision/latest/scale-to-width-down/350?cb=20060620171853&path-prefix=en"
+
+"name":  null ,
+"lastName": "Delaney",
+"gender": "Female",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"serial": null,
+"occupation": "Science officer",
+"status": "Active (2375)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/8/82/Jenny_and_Megan_Delaney.jpg/revision/latest/scale-to-width-down/350?cb=20060620171853&path-prefix=en"
+
+"name": "Dell"
+"lastName": null,
+"gender": "Male",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Crewman",
+"occupation": "Operations division non-commissioned officer",
+"serial": null,
+"status": "Active (2374)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/3/37/Dell.jpg/revision/latest?cb=20181003040700&path-prefix=en"
+
+"name":  null ,
+"lastName": "DeMeritt",
+"gender": "Male",
+"affiliation": "Federation Starfleet",
+"rank": "Ensign",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2374)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/c/c8/USS_Voyager_crew_manifest%2C_Projections.jpg/revision/latest/scale-to-width-down/350?cb=20060402232303&path-prefix=en"
+
+"name": "Dorado"
+"lastName": null,
+"gender": "Female",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Crewman",
+"occupation": "Bridge officer Engineering officer",
+"serial": null,
+"status": "Active (2374)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/6/6f/Dorado.jpg/revision/latest?cb=20161023193509&path-prefix=en"
+
+"name":  null ,
+"lastName": "Durst",
+"gender": "Male",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": null,
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/6/6a/Pete_Durst.jpg/revision/latest/scale-to-width-down/350?cb=20050820210750&path-prefix=en"
+
+"name":  null ,
+"lastName": "Dorton",
+"gender": null,
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2374)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/c/c8/USS_Voyager_crew_manifest%2C_Projections.jpg/revision/latest/scale-to-width-down/350?cb=20060402232303&path-prefix=en"
+
+"name": "The Doctor",
+"species": "Human male Holoprogram EMH, ECH",
+"occupation": "Chief Medical Officer",
+"name": "Emmanuel"
+"lastName": null,
+"gender": "Male",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"occupation": "Operations division officer",
+"serial": null,
+"status": "Active (2374)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/8/83/Emmanuel_and_Strickler.jpg/revision/latest?cb=20161215003747&path-prefix=en"
+
+"name": "Farley"
+"lastName": null,
+"gender": null,
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Ensign",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2376)",
+"imgUrl": null
+
+"name":  null ,
+"lastName": "Fernandez",
+"gender": "Female",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2374)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/6/68/USS_Voyager_crew_manifest%2C_The_killing_game_I_1.jpg/revision/latest/scale-to-width-down/350?cb=20060402232410&path-prefix=en"
+
+"name": "Fitzpatrick"
+"lastName": null,
+"gender": "Male",
+"species": "Human",
+"affiliation": "Federation Starfleet (Formerly Maquis)",
+"rank": "Ensign",
+"occupation": "Bridge officer (Formerly resistance fighter)",
+"serial": null,
+"status": "Active (2377)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/6/68/Fitzpatrick%2C_2374.jpg/revision/latest?cb=20161023205235&path-prefix=en"
+
+"name":  null ,
+"lastName": "Fleck",
+"gender": "Male",
+"affiliation": "Federation Starfleet",
+"rank": "Ensign",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2374)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+
+"name": "Foster"
+"lastName": null,
+"gender": "Female",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Crewman",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2377)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/c/cd/Foster%2C_2373.jpg/revision/latest?cb=20160508115106&path-prefix=en"
+
+"name": "Frank" ,
+"gender": "Male",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Crewman",
+"occupation": "Command division",
+"serial": null,
+"status": "Active (2377)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/8/87/Frank%2C_2376.jpg/revision/latest?cb=20200218185924&path-prefix=en"
+
+"name":  null ,
+"lastName": "Fukai",
+"gender": "Female",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Ensign",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2374)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+
+"name": "Gennaro"
+"lastName": null,
+"gender": "Male",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Crewman",
+"occupation": "USS Voyager crewman",
+"serial": null,
+"status": "Active (2373)",
+"imgUrl":  null ,
+
+"name":  null ,
+"lastName": "Genovese",
+"gender": "Male",
+"species": null,
+"affiliation": "Federation Starfleet",
+"rank": "Lieutenant",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2374)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+
+"name": "Gerron"
+"lastName": null,
+"gender": "Male",
+"species": "Bajoran",
+"affiliation": "Maquis (formerly) Federation Starfleet",
+"rank": "Crewman (provisional)",
+"occupation": "Resistance fighter (formerly) USS Voyager crewmember",
+"serial": null,
+"status": "Active (2371)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/a/a0/Gerron.jpg/revision/latest/scale-to-width-down/350?cb=20080506215905&path-prefix=en"
+
+"name":  null ,
+"lastName": "Gibson",
+"gender": "Male",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Ensign",
+"occupation": "Security officer",
+"serial": null,
+"status": "Active (2376)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/96/Security_officer_with_Tuvok%2C_2375.jpg/revision/latest/scale-to-width-down/350?cb=20171231130730&path-prefix=en"
+
+"name":  null ,
+"lastName": "Gilmore",
+"gender": "Female",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"rank": "Ensign (-2376) Crewman (stripped of rank, 2376)",
+"occupation": "Engineer",
+"serial": null,
+"status": "Active (2376)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/e/ea/Marla_Gilmore.jpg/revision/latest/scale-to-width-down/350?cb=20110107151017&path-prefix=en"
+
+"name": "Golwat"
+"lastName": null,
+"gender": "Female",
+"species": "Bolian",
+"affiliation": "Federation Starfleet",
+"rank": "Ensign",
+"occupation": "USS Voyager crewmember",
+"serial": null,
+"status": "Active (2377)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/1/10/Golwat.jpg/revision/latest/scale-to-width-down/350?cb=20080930121123&path-prefix=en"
+
+"name": "Grimes"
+"lastName": null,
+"gender": "Male",
+"species": "Human",
+"affiliation": "Federation Starfleet",
+"occupation": "Conn officer",
+"serial": null,
+"status": "Active (2372)",
+"imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/d/d8/Grimes%2C_2372.jpg/revision/latest/scale-to-width-down/350?cb=20060119012837&path-prefix=en"
