@@ -1,4 +1,18 @@
+// Color
 $beige: #dd58b1;
-$turqoise: #6dcbff;
-$red: #d41a20;
 $blue: #5082fd;
+$pure-black: #000;
+$pure-white: #fff;
+$red: #d41a20;
+$tech-blue: #0c55b9;
+$turqoise: #6dcbff;
+
+// Colors Special
+$border-black: rgba($pure-black, .2);
+$border-white: rgba($pure-white, .2);
+$tech-blue-bgc: rgba($tech-blue, .4);
+
+// UI
+$page-spacer: 30px;
+$border-radius: $page-spacer * 2;
+$nb: !important;

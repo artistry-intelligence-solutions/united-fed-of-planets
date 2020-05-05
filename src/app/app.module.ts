@@ -17,6 +17,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { QuadrantMapComponent, QaudrantDialogueComponent } from './quadrant-map/quadrant-map.component';
 import { CrewManifestComponent } from './crew-manifest/crew-manifest.component';
 import { FleetComponent } from './fleet/fleet.component';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment';
 
 @NgModule({
   entryComponents: [
@@ -46,7 +48,8 @@ import { FleetComponent } from './fleet/fleet.component';
     MatGridListModule,
     MatIconModule,
     MatSidenavModule,
-    MatTooltipModule
+    MatTooltipModule,
+    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],
   providers: [],
 })

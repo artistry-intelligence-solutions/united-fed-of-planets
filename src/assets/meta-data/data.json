@@ -485,7 +485,7 @@
             "occupation": "Security officer",
             "status": "Active (2371)",
             "serial": null,
-            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/4/42/Andrews%2C_Shattered.jpg/revision/latest/scale-to-width-down/350?cb=20091212184736&path-prefix=en"
+            "imgUrl": null
         },
         {
             "name": "Arkinson",
@@ -497,7 +497,7 @@
             "occupation": "USS Voyager crewmember",
             "serial": null,
             "status": "Active (2376)",
-            "imgUrl": "null"
+            "imgUrl": null
         },
         {
             "name": "Ashmore",
@@ -599,7 +599,7 @@
             "occupation": "USS Voyager, planetary geosciences division",
             "serial": null,
             "status": "Active (2372)",
-            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+            "imgUrl": null
         },
         {
             "name": null,
@@ -611,7 +611,7 @@
             "occupation": "USS Voyager crewmember",
             "serial": null,
             "status": "Active (2372)",
-            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+            "imgUrl": null
         },
         {
             "name": null,
@@ -635,7 +635,7 @@
             "occupation": "USS Voyager planetary geosciences division",
             "serial": null,
             "status": "Active (2372)",
-            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+            "imgUrl": null
         },
         {
             "name": "Blain",
@@ -651,7 +651,7 @@
         },
         {
             "name": null,
-            "lastName": "Bosché",
+            "lastName": "Bosche",
             "gender": "Female",
             "species": null,
             "affiliation": "Federation Starfleet",
@@ -659,7 +659,7 @@
             "occupation": "USS Voyager crewmember",
             "status": "Active (2372)",
             "serial": null,
-            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+            "imgUrl": null
         },
         {
             "name": "Boylan",
@@ -728,7 +728,7 @@
             "occupation": "USS Voyager crewmember",
             "status": "Active (2372)",
             "serial": null,
-            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+            "imgUrl": null
         },
         {
             "name": null,
@@ -787,7 +787,7 @@
             "occupation": "USS Voyager crewmember",
             "serial": null,
             "status": "Active (2372)",
-            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+            "imgUrl": null
         },
         {
             "name": null,
@@ -847,7 +847,7 @@
             "occupation": "USS Voyager crewmember",
             "serial": null,
             "status": "Active (2372)",
-            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+            "imgUrl": null
         },
         {
             "name": null,
@@ -919,7 +919,7 @@
             "occupation": "USS Voyager crewmember",
             "serial": null,
             "status": "Active (2372)",
-            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+            "imgUrl": null
         },
         {
             "name": null,
@@ -1070,7 +1070,7 @@
             "occupation": "USS Voyager crewmember",
             "serial": null,
             "status": "Active (2374)",
-            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+            "imgUrl": null
         },
         {
             "name": "Foster",
@@ -1105,7 +1105,7 @@
             "occupation": "USS Voyager crewmember",
             "serial": null,
             "status": "Active (2374)",
-            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+            "imgUrl": null
         },
         {
             "name": "Gennaro",
@@ -1129,7 +1129,7 @@
             "occupation": "USS Voyager crewmember",
             "serial": null,
             "status": "Active (2374)",
-            "imgUrl": "https://vignette.wikia.nocookie.net/memoryalpha/images/9/92/Starship_Missionstatus%2C_Planetary_Geosciences_Division.jpg/revision/latest/scale-to-width-down/350?cb=20070405035538&path-prefix=en"
+            "imgUrl": null
         },
         {
             "name": "Gerron",

@@ -26,6 +26,7 @@ export class CrewManifestComponent implements OnInit, OnDestroy {
     });
 
     this.data.retriveDefinitions().subscribe((jsonData: Definitions[]) => {
+      // tslint:disable-next-line: no-string-literal
       this.crewManifest = jsonData['personnel'];
     }, err => {
       console.error(err);
@@ -37,4 +38,30 @@ export class CrewManifestComponent implements OnInit, OnDestroy {
   ngOnInit() {}
 
   ngOnDestroy() {}
+
+  public crewManCard(event): void {
+    const crewManName: string = this.nameAsClass(event.srcElement.dataset.indexNumber);
+    const crewMan = document.getElementsByClassName('crewManName');
+    for (let i = 0; i < crewMan.length; i++) {
+      // if (document.getElementsByClassName('crewManName')[i].classList === crewManName) {
+
+      // }
+      console.log(document.getElementsByClassName('crewManName')[i].classList);
+    }
+  }
+
+  public nameAsClass(crewManName: string): string {
+    if (crewManName) {
+      return crewManName.toLowerCase().split(' ').join('-');
+    }
+  }
+
+  public openCard(event): void {
+    console.log(event);
+    console.log(event.path.h2.innerHtml);
+    const cardId = event.srcElement.dataset.indexNumber;
+    console.log((document.getElementById(cardId) as HTMLElement)
+  );
+    // (document.getElementById(cardId) as HTMLElement).classList.toggle('card-open');
+  }
 }

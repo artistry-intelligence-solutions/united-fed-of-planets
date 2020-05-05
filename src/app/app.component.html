@@ -3,8 +3,8 @@
   <mat-drawer #drawer class="sidenav" mode="side">
     <img class="ufop" src="/assets/logos/ufop.png" alt="united federation of planets">
     <hr>
-    <button mat-raised-button routerLink="/crewmanifest" routerLinkActive="active">StarFleet</button>
-    <button mat-raised-button routerLink="/ship-fleet" routerLinkActive="active">Ship Fleet</button>
+    <button mat-raised-button routerLink="/crewmanifest" routerLinkActive="active" (click)="drawer.toggle()">StarFleet</button>
+    <button mat-raised-button routerLink="/ship-fleet" routerLinkActive="active" (click)="drawer.toggle()">Ship Fleet</button>
     <div class="star-date">
       <h2>Current Star Date</h2>
       <hr>

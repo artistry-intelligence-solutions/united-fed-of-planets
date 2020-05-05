@@ -1,20 +1,20 @@
+@import '../styles/variables';
+
 .container {
-  // background-attachment: fixed;
-  // background-image: url('/assets/quadrants/galaxy-1.jpg');
-  // background-position: top center;
-  // background-repeat: no-repeat;
-  // background-size: 100% auto;
   min-height: 100vh;
   padding: 25px;
 
   .sidenav {
+    background-color: $tech-blue-bgc;
+    border-right: thin solid $border-white;
     left: 0;
   }
 
   .sidenav,
   .sidenav-content {
     height: 100vh;
-    position: absolute;
+    position: fixed;
+    z-index: 3;
   }
 }
 
@@ -40,15 +40,35 @@
 }
 
 .nav-toggle {
-  background-color: transparent;
-  border: none;
+  background-color: $tech-blue-bgc;
+  border-bottom-color: $border-black;
+  border-left-color: $border-white;
+  border-radius: $border-radius / 6;
+  border-right-color: rgba(black, .2);
+  border-style: solid;
+  border-top-color: rgba(white, .2);
+  border-width: thin;
   cursor: pointer;
+  padding: $page-spacer / 6;
   position: fixed;
   right: 5px;
   top: 5px;
+  transition: all .2s ease-in-out;
 
   &:active {
+    box-shadow:
+      inset 2px -2px 2px rgba(0, 0, 0, .3),
+      inset -2px 2px 2px rgba(0, 0, 0, .3),
+      inset -2px -2px 2px rgba(0, 0, 0, .3),
+      inset 2px 2px 2px rgba(0, 0, 0, .3);
     margin-top: 1px;
+  }
+
+  &:hover {
+    border-top-color: $border-black;
+    border-right-color: $border-white;
+    border-left-color: $border-black;
+    border-bottom-color: $border-white;
   }
 
   img {

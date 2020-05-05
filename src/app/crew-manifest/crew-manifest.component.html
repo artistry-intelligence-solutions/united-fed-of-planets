@@ -1,18 +1,26 @@
 <mat-grid-list cols="4">
     <mat-grid-tile *ngFor="let crewMan of crewManifest">
-        <ng-template *ngIf="crewMan.imgUrl">
-            <img src="{{ crewMan.imgUrl }}" alt="{{ crewMan.title }}">
-        </ng-template>
-        <div class="card-body">
-            <h2>{{ crewMan.name }} {{ crewMan.lastName }}</h2>
-            <ul>
-                <li *ngIf="crewMan.gender">{{ crewMan.gender }}</li>
-                <li *ngIf="crewMan.species">{{ crewMan.species }}</li>
-                <li *ngIf="crewMan.affiliation">{{ crewMan.affiliation }}</li>
-                <li *ngIf="crewMan.occupation">{{ crewMan.occupation }}</li>
-                <li *ngIf="crewMan.serial">{{ crewMan.serial }}</li>
-                <li *ngIf="crewMan.status">{{ crewMan.status }}</li>
-            </ul>
+        <div class="flex-child">
+            <ng-container *ngIf="crewMan.imgUrl != null; then originalImg; else genericImg"></ng-container>
+            <ng-template #originalImg>
+                <img src="{{ crewMan.imgUrl }}" alt="{{ crewMan.title }}" class="profile-picture" (click)="crewManCard($event)" [attr.data-index-number]="crewMan.name">
+            </ng-template>
+            <ng-template #genericImg>
+                <img src="https://vignette.wikia.nocookie.net/memoryalpha/images/6/68/USS_Voyager_crew_manifest%2C_The_killing_game_I_1.jpg/revision/latest/scale-to-width-down/350?cb=20060402232410&path-prefix=en">
+            </ng-template>
+            <div class="card-body" (click)="openCard($event)" [attr.data-index-number]="crewMan.name">
+                <h2>{{ crewMan.name }} {{ crewMan.lastName }}</h2>
+                <div class="crewman-card" id="{{ nameAsClass(crewMan.name) }}">
+                    <ul>
+                        <li>{{ crewMan.gender }}</li>
+                        <li>{{ crewMan.species }}</li>
+                        <li>{{ crewMan.affiliation }}</li>
+                        <li>{{ crewMan.occupation }}</li>
+                        <li>{{ crewMan.serial }}</li>
+                        <li>{{ crewMan.status }}</li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </mat-grid-tile>
 </mat-grid-list>
